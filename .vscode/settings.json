@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net5.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ac6a3cbf-58ff-42c5-9af0-050cd7df13fe/resourceGroups/tempwifi/providers/Microsoft.Web/sites/tempwifiwa"
+}
